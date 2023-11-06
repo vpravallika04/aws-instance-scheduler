@@ -106,7 +106,7 @@
         "Yes",
         "No"
       ],
-      "Description": "Activate or deactivate scheduling."
+      "Description": "Activate or deactivate scheduling ."
     },
     "ScheduledServices": {
       "Type": "String",
